@@ -1,3 +1,6 @@
 [submodule "ddj-template"]
 	path = ddj-template
 	url = git@github.com:leonardodiegues/ddj-template.git
+[submodule "ts-backend-template"]
+	path = ts-backend-template
+	url = git@github.com:leonardodiegues/ts-backend-template.git
