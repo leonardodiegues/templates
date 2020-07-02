@@ -1,0 +1,3 @@
+[submodule "ddj-template"]
+	path = ddj-template
+	url = git@github.com:leonardodiegues/ddj-template.git
